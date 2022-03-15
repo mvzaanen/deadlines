@@ -17,6 +17,15 @@
   date: 20 June 2022 – 8 July 2021
   place: South Africa
   sub: WP
+- title: AfricaNLP Workshop Strengthening African NLP
+  year: 2022
+  id: AfricaNLP2022
+  link: https://africanlp.masakhane.io/
+  deadline: '2022-03-07 23:59:59'
+  timezone: GMT+2
+  date: April 29,2022
+  place: Virtual
+  sub: WP
 - title: Ethics and Explainability for Responsible Data Science (EE-RDS)
   year: 2021
   id: EERDS2021
