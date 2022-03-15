@@ -1,4 +1,22 @@
 ---
+- title: CIMPA Research School - Mathematical and Statistical Methods for Data Science
+  year: 2022
+  id: CIMPARS2022
+  link: https://sites.google.com/aims.ac.za/cimpa2022/
+  deadline: '2022-04-20 23:59:59'
+  timezone: GMT+2
+  date: 18 July 2022 – 29 July 2021
+  place: South Africa
+  sub: WP
+- title: The Summer Institutes in Computational Social Science
+  year: 2022
+  id: SICSS-JIAS-IPATC2022
+  link: https://sicss.io/2022/jias/
+  deadline: '2022-03-31 23:59:59'
+  timezone: GMT+2
+  date: 20 June 2022 – 8 July 2021
+  place: South Africa
+  sub: WP
 - title: Ethics and Explainability for Responsible Data Science (EE-RDS)
   year: 2021
   id: EERDS2021
