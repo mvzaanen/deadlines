@@ -1,11 +1,20 @@
 ---
+- title: Deep Learning Indaba 
+  year: 2022
+  id: DLI2022
+  link: https://deeplearningindaba.com/blog/2022/03/the-deep-learning-indaba-2022-in-tunis-applications-open/
+  deadline: '2022-04-08 23:59:59'
+  timezone: GMT+2
+  date: 21 August 2022 – 26 August 2022
+  place: Tunis, Tunisia
+  sub: WP
 - title: CIMPA Research School - Mathematical and Statistical Methods for Data Science
   year: 2022
   id: CIMPARS2022
   link: https://sites.google.com/aims.ac.za/cimpa2022/
   deadline: '2022-04-20 23:59:59'
   timezone: GMT+2
-  date: 18 July 2022 – 29 July 2021
+  date: 18 July 2022 – 29 July 2022
   place: South Africa
   sub: WP
 - title: The Summer Institutes in Computational Social Science
@@ -14,7 +23,7 @@
   link: https://sicss.io/2022/jias/
   deadline: '2022-03-31 23:59:59'
   timezone: GMT+2
-  date: 20 June 2022 – 8 July 2021
+  date: 20 June 2022 – 8 July 2022
   place: South Africa
   sub: WP
 - title: AfricaNLP Workshop Strengthening African NLP
