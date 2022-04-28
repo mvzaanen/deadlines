@@ -8,6 +8,15 @@
   date: December 5-December 9, 2022
   place: Stellenbosch, South Africa
   sub: CON
+- title: U.S.-Africa Frontiers Symposium
+  year: 2022
+  id: USAFP2022
+  link: https://www.nationalacademies.org/event/10-12-2022/first-us-africa-frontiers-of-science-engineering-and-medicine-symposium
+  deadline: '2022-06-20 23:59:59'
+  timezone: GMT+2
+  date: October 12-October 14, 2022
+  place: Nairobi, Kenya
+  sub: WP
 - title: CIMPA Research School - Mathematical and Statistical Methods for Data Science
   year: 2022
   id: CIMPARS2022
