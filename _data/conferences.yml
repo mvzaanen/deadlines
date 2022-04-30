@@ -1,4 +1,13 @@
 ---
+- title: Ethics and Explainability for Responsible Data Science (EE-RDS)
+  year: 2022
+  id: EERDS2022
+  link: https://www.uj.ac.za/event/ethics-and-explainability-for-responsible-data-science-ee-rds/
+  deadline: '2022-08-31 23:59:59'
+  timezone: GMT+2
+  date: November 2-November 3, 2022
+  place: Johannesburg, South Africa
+  sub: WP
 - title: Southern African Conference for Artificial Intelligence Research
   year: 2022
   id: SACAIR2022
