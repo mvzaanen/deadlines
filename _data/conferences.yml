@@ -8,11 +8,20 @@
   date: November 2-November 3, 2022
   place: Johannesburg, South Africa
   sub: WP
+- title: 3rd Workshop on Resources for African Indigenous Languages
+  year: 2022
+  id: RAIL2022
+  link: https://www.sadilar.org/index.php/en/2-general/329-third-workshop-on-resources-for-african-indigenous-language-rail
+  deadline: '2022-08-28 23:59:59'
+  timezone: GMT+2
+  date: 1 December 2022 – 3 December 2022
+  place: Potchefstroom, South Africa
+  sub: CON
 - title: Southern African Conference for Artificial Intelligence Research
   year: 2022
   id: SACAIR2022
   link: https://2022.sacair.org.za/
-  deadline: '2022-08-02 23:59:59'
+  deadline: '2022-08-22 23:59:59'
   timezone: GMT+2
   date: December 5-December 9, 2022
   place: Stellenbosch, South Africa
