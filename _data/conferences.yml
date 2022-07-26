@@ -26,6 +26,15 @@
   date: December 5-December 9, 2022
   place: Stellenbosch, South Africa
   sub: CON
+- title: 2022 Pan-African Artificial Intelligence and Smart Systems Conference
+  year: 2022
+  id: PAISS2022
+  link: https://www.paaiss.com/
+  deadline: '2021-07-29 23:59:59'
+  timezone: GMT+2
+  date: November 2 – 4, 2022
+  place: Senegal
+  sub: CON
 - title: U.S.-Africa Frontiers Symposium
   year: 2022
   id: USAFP2022
