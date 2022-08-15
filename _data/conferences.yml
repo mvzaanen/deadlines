@@ -1,4 +1,13 @@
 ---
+- title: The Eleventh International Conference on Learning Representations (ICLR)
+  year: 2023
+  id: ICLR2023
+  link: https://iclr.cc/
+  deadline: '2022-09-21 23:59:59'
+  timezone: GMT+2
+  date: May 1 - May 2023
+  place: Kigalim, Rwanda
+  sub: WP
 - title: Ethics and Explainability for Responsible Data Science (EE-RDS)
   year: 2022
   id: EERDS2022
