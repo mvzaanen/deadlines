@@ -6,8 +6,8 @@
   deadline: '2022-09-21 23:59:59'
   timezone: GMT+2
   date: May 1 - May 5 2023
-  place: Kigalim, Rwanda
-  sub: WP
+  place: Kigali, Rwanda
+  sub: CON
 - title: Ethics and Explainability for Responsible Data Science (EE-RDS)
   year: 2022
   id: EERDS2022
