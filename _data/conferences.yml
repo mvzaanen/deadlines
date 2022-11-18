@@ -1,4 +1,13 @@
 ---
+- title: 32nd International Joint Conference on Artificial Intelligence
+  year: 2023
+  id: IJCAI2023
+  link: https://www.ijcai.org/
+  deadline: '2023-01-18 23:59:59'
+  timezone: GMT+2
+  date: Aug 19th to Aug 25th, 2023
+  place: Cape Town, South Africa
+  sub: CON
 - title: The Eleventh International Conference on Learning Representations (ICLR)
   year: 2023
   id: ICLR2023
