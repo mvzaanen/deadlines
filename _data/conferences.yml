@@ -1,4 +1,13 @@
 ---
+- title: Conference on the State of Artificial Intelligence in Africa (COSAA) 2023
+  year: 2023
+  id: COSAA2023
+  link: https://cipit.strathmore.edu/the-state-of-ai-in-africa/
+  deadline: '2023-01-30 23:59:59'
+  timezone: GMT+2
+  date: Mar 16 to Mar 17, 2023
+  place: Nairobi, Kenya
+  sub: WP
 - title: 32nd International Joint Conference on Artificial Intelligence
   year: 2023
   id: IJCAI2023
