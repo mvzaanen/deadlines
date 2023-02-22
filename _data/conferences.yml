@@ -1,4 +1,22 @@
 ---
+- title: 4th African Human Computer Interaction Conference
+  year: 2023
+  id: AfriCHI2023
+  link: https://africhi2023.org/
+  deadline: '2023-04-24 23:59:59'
+  timezone: GMT+2
+  date: Nov 27 - Dec 1, 2023
+  place: East London , South Africa
+  sub: CON
+- title: Deep Learning Indaba 2023
+  year: 2023
+  id: DLI2023
+  link: https://deeplearningindaba.com/2023/indaba/apply/
+  deadline: '2023-03-06 23:59:59'
+  timezone: GMT+2
+  date:  Sep 3 - 9 Sep, 2023
+  place: Accra, Ghana
+  sub: WP
 - title: Conference on the State of Artificial Intelligence in Africa (COSAA) 2023
   year: 2023
   id: COSAA2023
