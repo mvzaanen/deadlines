@@ -8,6 +8,15 @@
   date: Nov 27 - Dec 1, 2023
   place: East London , South Africa
   sub: CON
+- title: The Summer Institutes in Computational Social Science
+  year: 2023
+  id: SICSS-JIAS-IPATC2023
+  link: https://sicss.io/2023/johannesburg/
+  deadline: '2023-03-31 23:59:59'
+  timezone: GMT+2
+  date: 26 June 2023 – 7 July 2022
+  place: Johannesburg, South Africa
+  sub: WP
 - title: Deep Learning Indaba 2023
   year: 2023
   id: DLI2023
