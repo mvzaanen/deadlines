@@ -1,9 +1,18 @@
 ---
+- title: Southern African Conference for Artificial Intelligence Research
+  year: 2023
+  id: SACAIR2023
+  link: https://2023.sacair.org.za/
+  deadline: '2023-08-14 23:59:59'
+  timezone: GMT+2
+  date: December 4-December 8, 2023
+  place: Muldersdrift, South Africa
+  sub: CON
 - title: 4th African Human Computer Interaction Conference
   year: 2023
   id: AfriCHI2023
   link: https://africhi2023.org/
-  deadline: '2023-04-24 23:59:59'
+  deadline: '2023-06-19 23:59:59'
   timezone: GMT+2
   date: Nov 27 - Dec 1, 2023
   place: East London , South Africa
